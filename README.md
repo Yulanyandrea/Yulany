@@ -1,5 +1,5 @@
 
-![viaje](viaje.jpg)
+
 git checkout --Orphan assets
 git reset --hard
 cp /path/to/viaje.jpg .
