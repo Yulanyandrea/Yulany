@@ -1,2 +1,2 @@
 
-https://Yulany.githubusercontent.com/yulany/yulany/master/assets/viaje.jpg
+https://raw.githubusercontent.com/yulanyandrea/yulany/master/assets/viaje.jpg
