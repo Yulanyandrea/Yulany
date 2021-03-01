@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+    background: url('./images/mountain.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.background {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.border {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.name {
+    color: white;
+    font-size: 48px;
+}
+
+.city {
+    color: white;
+    font-size: 36px;
+}
