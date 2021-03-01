@@ -1,2 +1,5 @@
-![viaje](viaje.jpg)
-![20170309_140635-1](20170309_140635-1.jpg)
+//![viaje](viaje.jpg)
+background-image: url(viaje.jpg)
+background-position: center
+background-repeat: no-repeat
+background-size: contain
